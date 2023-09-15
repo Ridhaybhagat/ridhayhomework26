@@ -1,0 +1,13 @@
+#wrapper{
+
+    padding: 10px;
+    border: 1px solid black;
+}
+
+h1{
+    text-underline-position: auto ;
+}
+
+a{
+    color: black;
+}
